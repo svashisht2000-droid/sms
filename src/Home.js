@@ -6,8 +6,10 @@ const Home=()=>{
             <h1>Project team</h1>
             <ol>
              <li>Al Wateq (J123456): Research head</li>
-             <li>Muktar (Team leam)</li>
+             <li>Muktar (Team lead)</li>
             </ol>
+            <hr />
+            <hr />
         </div>
     )
 }
